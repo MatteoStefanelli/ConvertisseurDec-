@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\Source.c(38,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\Source.c(38,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\Source.c(38,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\Source.c(38,11): message : cet argument est utilisé comme taille de mémoire tampon
+C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\Source.c(55,22): warning C4047: 'fonction' : les niveaux d'indirection de 'const char *const ' et de 'int' sont différents
+C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\Source.c(55,13): warning C4024: 'printf' : types différents pour le paramètre formel et réel 1
+  ConvertisseurBinDec.vcxproj -> C:\MST_PROG\VisualStudio\DEMO_1\ConvertissseruBinDec\ConvertisseurBinDec\x64\Debug\ConvertisseurBinDec.exe
